@@ -1,5 +1,5 @@
-Modified redme for DevOPS demo     
- 
+Modified redme for DevOPS demo  'o o'
+                                  l
 ********************************
 
 Addressbook Tutorial
